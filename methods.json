@@ -10,10 +10,6 @@
         "type": "credit_card"
       },
       {
-        "name": "Master Card",
-        "type": "credit_card"
-      },
-      {
         "name": "JCB",
         "type": "credit_card"
       },
