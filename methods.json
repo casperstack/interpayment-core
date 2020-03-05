@@ -1,0 +1,162 @@
+{
+  "GLOBAL" : {
+    "channel": [
+      {
+        "name": "Visa Card",
+        "type": "credit_card"
+      },
+      {
+        "name": "Master Card",
+        "type": "credit_card"
+      },
+      {
+        "name": "Master Card",
+        "type": "credit_card"
+      },
+      {
+        "name": "JCB",
+        "type": "credit_card"
+      },
+      {
+        "name": "Union Pay",
+        "type": "credit_card"
+      },
+      {
+        "name": "Paypal",
+        "type": "e_wallet"
+      },
+      {
+        "name": "Neteller",
+        "type": "e_wallet"
+      },
+      {
+        "name": "Skrill",
+        "type": "e_wallet"
+      },
+      {
+        "name": "Bitcoin",
+        "type": "cryptocurrency"
+      }
+    ]
+  },
+  "TH": {
+    "channel": [
+      {
+        "name": "True Money",
+        "type": "e_wallet"
+      },
+      {
+        "name": "LINE Pay",
+        "type": "e_wallet"
+      },
+      {
+        "name": "AirPay",
+        "type": "e_wallet"
+      },
+      {
+        "name": "Blue Pay",
+        "type": "e_wallet"
+      },
+      {
+        "name": "Prompt Pay",
+        "type": "qr_payment"
+      },
+      {
+        "name": "BANGKOK BANK",
+        "type": "wire_transfer"
+      },
+      {
+        "name": "KASIKORNBANK BANK",
+        "type": "wire_transfer"
+      },
+      {
+        "name": "KRUNG THAI BANK",
+        "type": "wire_transfer"
+      },
+      {
+        "name": "SIAM COMMERCIAL BANK",
+        "type": "wire_transfer"
+      },
+      {
+        "name": "BANK OF AYUDHYA",
+        "type": "wire_transfer"
+      },
+      {
+        "name": "TMB BANK",
+        "type": "wire_transfer"
+      }
+    ]
+  },
+  "CN": {
+    "channel": [
+      {
+        "name": "Alipay",
+        "type": "e_wallet"
+      },
+      {
+        "name": "WeChat Pay",
+        "type": "e_wallet"
+      }
+    ]
+  },
+  "ML": {
+    "channel": [
+      {
+        "name": "My Card",
+        "type": "prepaid_card"
+      },
+      {
+        "name": "MOL Points Card",
+        "type": "prepaid_card"
+      },
+      {
+        "name": "Games Berry",
+        "type": "prepaid_card"
+      },
+      {
+        "name": "MOL Points",
+        "type": "e_wallet"
+      }
+    ]
+  },
+  "ID": {
+    "channel": [
+      {
+        "name": "GOC Pay",
+        "type": "prepaid_card"
+      },
+      {
+        "name": "MOG Play",
+        "type": "prepaid_card"
+      },
+      {
+        "name": "Uni Pin Express",
+        "type": "prepaid_card"
+      },
+      {
+        "name": "Wave E-Point",
+        "type": "prepaid_card"
+      },
+      {
+        "name": "GO Pay",
+        "type": "e_wallet"
+      },
+      {
+        "name": "Uni Pin Wallet",
+        "type": "e_wallet"
+      },
+      {
+        "name": "CODAPAY",
+        "type": "mobile_payment"
+      },
+      {
+        "name": "GOC Pay",
+        "type": "mobile_payment"
+      },
+      {
+        "name": "TELKOMSEL",
+        "type": "mobile_payment"
+      }
+    ]
+  }
+}
